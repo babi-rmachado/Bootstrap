@@ -1,0 +1,5 @@
+.form-boot{
+    width: 700px;/*Largura*/
+    margin: auto;/*O margin:auto coloca o form no meio da página*/
+    margin-top: 100px;/*Distância do topo*/
+}
