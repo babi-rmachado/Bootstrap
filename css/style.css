@@ -2,4 +2,21 @@
     width: 700px;/*Largura*/
     margin: auto;/*O margin:auto coloca o form no meio da página*/
     margin-top: 100px;/*Distância do topo*/
+    background-color: rgba(212, 189, 218, 0.461);/*Cor de fundo do formulário*/
+    border-radius: 15px;/*Arredonda as bordas do formulário*/
+    padding: 100px;/*Espaçamento interno do formulário*/
+    
+}
+
+.btn{
+    padding: 11px;
+    background-color: rgb(27, 127, 180);
+    border: none;
+    width: 100px;
+}
+
+.btn:hover{
+    background-color: rgb(9, 113, 168);
+    border: none;
+    color: rgb(207, 204, 204);
 }
